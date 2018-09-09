@@ -7,10 +7,13 @@ Feel free to use.
 ## PowerShell Script
 When you run powershell script, you need to setup your system that powershell script can run. 
 
-### Tools
-* Windows PowerShell ISE 
+## Tools
+Any kinds of text editor your can use, but native Windows PowerShell may best choice in my ways
+* **Windows PowerShell ISE** - Recommend, IDE and easy to use.
 * Windows PowerShell
+* VScode + PowerShell extension - Good for long script file
 
 ## Batch File
+Sometimes simple batch file might enough for simple task such as install programs. Also, batch file is very useful when you want to run mixed script files simultaneous. 
 
 
