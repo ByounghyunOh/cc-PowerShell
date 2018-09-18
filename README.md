@@ -14,6 +14,6 @@ Any kinds of text editor your can use, but native Windows PowerShell may best ch
 * VSCode + PowerShell extension - Good for long script file
 
 ## Batch File
-Sometimes simple batch file might enough for simple task such as install programs. Also, batch file is very useful when you want to run mixed script files simultaneous. 
+Sometimes simple batch file might enough for simple task such as install programs. Also, batch file is very useful when you want to run mixed script files simultaneous
 
 
