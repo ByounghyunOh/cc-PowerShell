@@ -1,6 +1,6 @@
 # -------------------------------------------------------------
-# Subject: Checking installed software status Script 
-# Description: Used for check windows office and windows license status
+# Subject: Checking installed licensing software status Script 
+# Description: Mainly uses for check windows office and windows license status
 # -------------------------------------------------------------
 
 Get-CimInstance -ClassName SoftwareLicensingProduct |
