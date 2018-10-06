@@ -16,4 +16,6 @@ Any kinds of text editor your can use, but native Windows PowerShell may best ch
 ## Batch File
 Sometimes simple batch file might enough for simple task such as install programs. Also, batch file is very useful when you want to run mixed script files simultaneous
 
+Example file is [here(PrintInstall.bat)](PrinterInstall.bat)
+
 
