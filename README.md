@@ -1,6 +1,6 @@
 ## Introduction
-During the working as IT Helpdesk, I've learned quite useful PowerShell script and the batch file. 
-It saved me lot of time from repetitive tasks. 
+While working at the IT Help Desk, I learned the quite useful PowerShell script and the batch file which saved me lot of time from repetitive tasks.
+
 I used PowerShell script and the batch file together, because some tasks can simply run with command line without the script.
 
 ## PowerShell Script
